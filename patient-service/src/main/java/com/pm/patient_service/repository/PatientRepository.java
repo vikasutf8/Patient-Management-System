@@ -10,4 +10,7 @@ import com.pm.patient_service.modal.Patient;
 @Repository
 public interface PatientRepository  extends JpaRepository<Patient, UUID> {
 
+
+    boolean existsByEmail(String email);
 }
+
