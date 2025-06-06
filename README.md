@@ -8,3 +8,8 @@ How did starts to build : reverse format
 - repository as an interface
 - Services with DTO as response and their mapping with Dto object and model class
 - Controller to define router/path 
+
+
+### gRPC Architecture
+![image](https://github.com/user-attachments/assets/4a98feb2-3cb2-4d4e-9c60-c7d4e1e3afb3)
+
